@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-<b>Main Page</b> 
+<h1><b>Main Page</b></h1> 
 
 ![Main Page](https://raw.githubusercontent.com/TanMy90/Spotify-Clone/master/static/main%20page.png)
 
