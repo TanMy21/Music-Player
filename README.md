@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-Spotify Main Page and Artist page built in HTML and CSS.
+Spotify Main Page and Playlist page built in HTML and CSS.
 
 <h1><b>Main Page</b></h1> 
 
