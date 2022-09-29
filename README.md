@@ -2,7 +2,7 @@
 
 <h1><b>Main Page</b></h1> 
 
-[Demo](https://tanmy21.github.io/Spotify-Clone/)
+<h3>[DEMO](https://tanmy21.github.io/Spotify-Clone/)</h3>
 
 ![Main Page](https://raw.githubusercontent.com/TanMy90/Spotify-Clone/master/static/main%20page.png)
 
