@@ -1,4 +1,4 @@
-# Spotify-Clone
+# Music Player
 
 Spotify Main Page and Playlist page built in HTML and CSS.
 
